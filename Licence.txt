@@ -1,0 +1,15 @@
+Licence
+
+# Copyright LukeD 2020
+
+# Terms
+"Original Author" is LukeD
+"This software" refers to the Callouts+.dll plugin and all code contained within.
+
+# Conditions
+You are permitted to free access to this source code on the following conditions:
+1)Do not sell, or use this software for profit. It is provided free to the public.
+2)Do not reupload to any website other than LCPDFR.com
+3)You may edit, change, add, delete whatever you like.
+4)If you plan to upload a new copy of this modification, provide credits to the original author.
+5)If you use any snippets of code from this plugin, you must provide credit to the original author.
