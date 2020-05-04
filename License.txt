@@ -1,4 +1,4 @@
-Licence
+License
 
 # Copyright LukeD 2020
 
